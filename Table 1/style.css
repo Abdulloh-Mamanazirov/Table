@@ -1,0 +1,30 @@
+body {
+  background-color: #333;
+}
+
+table {
+  border: 5px solid #fff;
+  background-color: #fff;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  width: 500px;
+  height: 300px;
+  margin: 0 auto;
+  margin-top: 200px;
+}
+thead {
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+thead tr th {
+  background-color: rgb(255, 190, 74);
+  padding: 10px;
+  font-size: 25px;
+}
+
+tbody tr td {
+  background-color: #000;
+  color: rgb(255, 190, 74);
+  font-size: 20px;
+  text-align: center;
+  padding: 10px;
+}

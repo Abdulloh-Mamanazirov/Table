@@ -1,0 +1,19 @@
+:root {
+  --color: rgb(4, 4, 214);
+}
+
+table {
+  border: 3px solid var(--color);
+}
+table thead th {
+  border: 3px solid var(--color);
+}
+table tbody tr td {
+  border: 3px solid var(--color);
+}
+table tfoot th {
+  border: 3px solid var(--color);
+}
+table tfoot td {
+  border: 3px solid var(--color);
+}
